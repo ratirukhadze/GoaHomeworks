@@ -1,0 +1,20 @@
+a{
+    font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: darkblue;
+    position: relative;
+    left: -50px;
+    font-size: 25px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: black;
+    position:relative;
+    bottom: -90px;
+    size-adjust: 33px;
+}
+
+img{
+    position: relative;
+    right: -360px;
+}
