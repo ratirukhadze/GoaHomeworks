@@ -1,31 +1,31 @@
-# count = 1
+count = 1
 
-# while count <= 10:
+while count <= 10:
     
-#     print(count)
-#     count += 1
+    print(count)
+    count += 1
 
 
-# i = 10
+i = 10
 
 
-# while i > 0:
-#     print(i)
-#     i -= 1  
+while i > 0:
+    print(i)
+    i -= 1  
 
-# count = 10
+count = 10
 
-# while count >= 1:
-#     print(count) 
-#     count -= 1
+while count >= 1:
+    print(count) 
+    count -= 1
 
 
-# i = 0
+i = 0
 
-# while i <= 100:
-#     if i % 2 == 0:
-#         print(i)
-#     i += 1
+while i <= 100:
+    if i % 2 == 0:
+        print(i)
+    i += 1
 
 
 i = 99
