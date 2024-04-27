@@ -1,0 +1,16 @@
+h1{
+    color: rgb(201, 74, 74);
+    size-adjust: 19px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative; 
+    left: 760px;
+    
+    
+}
+p{
+    color: cadetblue;
+    size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 760px;
+}
