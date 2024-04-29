@@ -1,0 +1,11 @@
+h1{
+    position: relative;
+    right: -600px;
+}
+
+
+p{
+    position: relative;
+    right: -600px;
+    size-adjust: 65px;
+}
