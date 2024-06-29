@@ -1,0 +1,47 @@
+h1{
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+    
+
+p{
+    text-align: center;
+
+}
+i{
+    display: block;
+    margin: auto;
+}
+img{
+    margin: auto;
+    display: block;
+}
+button{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+ol{
+    margin: auto;
+    display: block;
+    text-align: center;
+    
+}
+table{
+    color: blue;
+   text-align: center;
+   margin: left;
+   margin: right;
+}
+u{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+input{
+    margin: auto;
+    display: block;
+}
+    

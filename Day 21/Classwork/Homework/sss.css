@@ -1,0 +1,16 @@
+body{
+    background-color: silver;
+}
+img{
+    width: 500;
+    margin: auto;
+    display: block;
+  caret-shape: 211;
+
+}
+button{
+    margin: auto;
+    display: block;
+    color: blueviolet;
+    background-color: salmon;
+}
