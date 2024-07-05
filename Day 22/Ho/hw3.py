@@ -1,0 +1,10 @@
+Qartuli = int(input("Score "))
+matchEnglish = int(input("Score "))
+Religion = int(input("Score "))
+Sport = int(input("Score "))
+it = int(input("Score "))
+Music = int(input("Score "))
+History = int(input("Score "))
+math = int(input("Score "))
+
+print(Qartuli + matchEnglish + Religion + Sport + it + Music + History + math / 5)
