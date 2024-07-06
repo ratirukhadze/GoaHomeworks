@@ -1,0 +1,21 @@
+img {
+    width: 200;
+    margin: auto;
+    display: block;
+}
+body {
+    background-color: lightgreen;
+}
+p {
+    color: green;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+button { 
+    margin: auto;
+    display: block;
+    background-color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
