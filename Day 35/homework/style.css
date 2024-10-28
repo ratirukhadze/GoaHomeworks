@@ -1,0 +1,55 @@
+h1{
+    width: 500;
+    height: 300;
+    border:  solid blue;
+    border-radius: 20px 25px 20px 20px;
+    border-style: dashed;
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.t1 {
+    width: 400;
+    height: 200;
+    border: dotted black;
+    border-radius: 21px 44px 111px 992px;
+    background-color: slateblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.t2{
+    width: 423px;
+    height: 222px;
+    border: khaki;
+    border-style: groove;
+    background-color: ghostwhite;
+    border-radius: 100px 200px 111px 112px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.t3{
+    width: 111px;
+    height: 111px;
+    border: slategray;
+    border-style: ridge;
+    background-color: cornflowerblue;
+    border-radius: 192px 726px 727px 626px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.t4{
+    width: 552px;
+    height: 332px;
+    border: gold;
+    border-style: inset;
+    background-color:bisque;
+    border-radius: 221px 111px 552px 332px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol{
+    color: blue;
+    
+}
