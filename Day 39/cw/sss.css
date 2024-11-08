@@ -1,0 +1,24 @@
+#ss{
+    width: 6.2em;
+    height: 2em;
+    background-color:white;
+    border-radius: 0.5em;
+    border-width: 0.1em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#tt{
+    width: 6.2em;
+    height: 2em;
+    color:white;
+    background-color: #B573C1;
+    border-color: #B573C1;
+    border-radius: 0.5em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    width: 12.5em;
+    background-color:#B573C1;
+}
+label{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

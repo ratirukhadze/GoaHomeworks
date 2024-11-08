@@ -1,0 +1,19 @@
+label{
+    background-color: aqua;
+    height: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+button{
+    background-color: aqua;
+    width: 175px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
