@@ -18,6 +18,7 @@
 button{
     width: 12.5em;
     background-color:#B573C1;
+    border-radius: 0.5em;
 }
 label{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
