@@ -17,3 +17,8 @@ button{
 
 h1{
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+body{
+    background-color: aqua;
+    border: white;
+    border-radius: 0.5em;
+}
