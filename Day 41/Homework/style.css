@@ -1,0 +1,38 @@
+.tata{
+    position: fixed;
+    right: 65px;
+    bottom: 20px;
+}
+#sasa{
+    position: static;
+}
+#tata{
+    position: relative;
+    left: 129px;
+    bottom: 20px;
+    
+}
+p{
+    position: relative;
+    left: 129px;
+    top: 22px;
+}
+#kaka{
+    position: relative;
+    left: 111px;
+    top: 222px;
+}
+#wawa{
+    position: static;
+    top: 212px;
+    left: 29px;
+}
+#lala{
+    position: absolute;
+    left: 10px;
+    bottom: 40px;
+}
+#ii{
+    position: sticky;
+    bottom: 0px;
+}

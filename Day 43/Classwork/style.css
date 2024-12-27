@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 100px;
+    box-sizing: border-box;
+}
+
+div:hover{
+
+   
+    transform: rotate(280deg);
+    transition-duration: 0.5s;
+
+
+    
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    background-color: cadetblue;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tata{
+    color: silver;
+    background-color: darkseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tata:hover{
+    transform: scale(3);
+    transition-duration: 1s;
+    
+}
+
+
+.sasa{
+    color: goldenrod;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.sasa:hover{
+    transform: scale(-2);
+    transition:ease-in-out 1s;
+}
