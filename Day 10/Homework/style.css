@@ -1,0 +1,37 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+
+i{
+    font-family: italic;
+
+    position: relative;
+
+    top: -5px;
+    right: 15px;
+    
+}
+
+
+
+body{
+
+position: relative;
+left: 250px;
+
+
+}
+
+
+
+u{
+
+position: relative;
+right: 35px;
+
+text-decoration: underline;
+text-decoration-color: white;
+
+}
